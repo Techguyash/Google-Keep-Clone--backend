@@ -9,6 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.techguyash.clone</groupId>
+    <packaging>jar</packaging>
     <artifactId>googleKeep</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Google-Keep-Clone--backend</name>
